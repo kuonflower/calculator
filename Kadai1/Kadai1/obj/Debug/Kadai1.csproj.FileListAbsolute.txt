@@ -1,0 +1,10 @@
+C:\Users\191216AM\Sample\Kadai1\Kadai1\bin\Debug\Kadai1.exe.config
+C:\Users\191216AM\Sample\Kadai1\Kadai1\bin\Debug\Kadai1.exe
+C:\Users\191216AM\Sample\Kadai1\Kadai1\bin\Debug\Kadai1.pdb
+C:\Users\191216AM\Sample\Kadai1\Kadai1\obj\Debug\Kadai1.csprojAssemblyReference.cache
+C:\Users\191216AM\Sample\Kadai1\Kadai1\obj\Debug\Kadai1.Form1.resources
+C:\Users\191216AM\Sample\Kadai1\Kadai1\obj\Debug\Kadai1.Properties.Resources.resources
+C:\Users\191216AM\Sample\Kadai1\Kadai1\obj\Debug\Kadai1.csproj.GenerateResource.cache
+C:\Users\191216AM\Sample\Kadai1\Kadai1\obj\Debug\Kadai1.csproj.CoreCompileInputs.cache
+C:\Users\191216AM\Sample\Kadai1\Kadai1\obj\Debug\Kadai1.exe
+C:\Users\191216AM\Sample\Kadai1\Kadai1\obj\Debug\Kadai1.pdb
